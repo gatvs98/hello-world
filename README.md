@@ -1,2 +1,3 @@
 # hello-world
-First repository wtv
+
+Hello I am new to github!
